@@ -1,0 +1,10 @@
+
+## 技術スタック
+go + hono
+DB: SQLServer
+css: pico.classless.min.css 
+
+## Plan
+Step1: helloworld + go プロジェクトとして基本的な構成
+Step2: mssql への接続と github actions によるテストの実装
+Step3: ログイン画面 と ユーザーテーブルの初期化 の実装
