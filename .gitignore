@@ -1,0 +1,9 @@
+# Binaries
+app
+main
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
